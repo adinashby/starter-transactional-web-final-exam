@@ -17,5 +17,7 @@ Example API 2 -> https://perenual.com/docs/api
 
 Note:
 
-- The list of items should have been fetched from the APIs.
-- Show the items in a component-based approach
+- The list of items should be fetched from the APIs.
+- Show the items in a component-based approach e.g. as follows:
+
+![](Q1.png)
